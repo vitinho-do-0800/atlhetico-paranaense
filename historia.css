@@ -1,0 +1,28 @@
+body {
+  background-image: url('Atlhe.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.conteudo {
+  background-color: rgba(0, 0, 0, 0.7);
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.botao {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #cc0000;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
