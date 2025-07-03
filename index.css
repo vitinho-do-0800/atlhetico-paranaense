@@ -4,4 +4,7 @@ body {
 h1 {font-style: italic;
     font-weight:500;
     font-size:large;
+    color: aliceblue;
+}
+p {color: aliceblue;
 }
